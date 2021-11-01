@@ -1,10 +1,10 @@
 # Better-Healthline
-😊😊👨‍⚕️✔**Health care of elder people for healthy lifestyles**✔👨‍⚕️😊😊....
-I first learned what a healthy life is the healthy life is 
+😊😊👨‍⚕️✔**Health care of elder people for healthy lifestyle**✔👨‍⚕️😊😊....
+============================================================================================================================================================================
+I learned what an Actually Healthy lifestyle is
 A healthy lifestyle simply means doing things that make you happy and feel good. 
-For one person, that may mean walking a mile five times a week, eating fast food once a week, and 
-spending virtual or in-person time with loved ones every other day and other most important things that
-Healthy lifestyle practices for elderly
+For one person, that may mean walking a mile five times a week, eating fast food once a week, and spending virtual or in-person time with loved ones every other day. 
+And other most important things that Healthy lifestyle(healthline) Better for Elderly.
 If you're over age 65, here's what you can do to strengthen your immune system and prevent the coronavirus and its complications.
 Get a coronavirus vaccination. ...
 Eat a healthy diet. ...
@@ -14,6 +14,6 @@ Get plenty of sleep. ...
 Maintain a healthy weight. ...
 Quit smoking. ...
 I have implemented all solution and their answers for some diseases in that program so an older person can live longer and Better life ahead.
-so I have implement in python technology stack and using some function of python
+So I have implement in python technology stack and using some function of python.
 I have implemented successfully diseases realeted data & more useful for elderly people.
 All this is given in the program. If a person has this disease, what solution should he take for it, what precautions should be taken, all the data is given in that program.
